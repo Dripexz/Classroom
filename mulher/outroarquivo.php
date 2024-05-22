@@ -20,10 +20,10 @@
 
     if( $sexo == "Fem" && $nota2 < 25){
         echo"<br>";
-        echo "Aceita!";
+        echo "$nome aluno , Aceita!";
     }else{
         echo"<br>";
-        echo "Não Aceita!";
+        echo " $nomealuno , Não Aceita!";
     }
 
 
